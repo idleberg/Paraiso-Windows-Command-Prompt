@@ -1,9 +1,11 @@
 Windows Registry Editor Version 5.00
 
-; Name:		Paraíso (Dark)
-; Author:	Jan T. Sott
+;	Name:       Paraíso (dark)
+;	Author:     Jan T. Sott
+;	License:    Creative Commons Attribution-ShareAlike 3.0 Unported License
+;	URL:        https://github.com/idleberg/Paraiso-Windows-Command-Prompt
 ;
-; Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
+;	Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
 
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:002e1e2f
